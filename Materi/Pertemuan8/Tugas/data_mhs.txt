@@ -1,0 +1,98 @@
+ [
+        {
+            "nama": "Rahma",
+            "nilai": {
+                "desain": 20,
+                "point": 15,
+                "nyawa": 10,
+                "rintangan": 15,
+                "musik": 0,
+                "laporan": 10,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Nanda",
+            "nilai": {
+                "desain": 15,
+                "point": 15,
+                "nyawa": 10,
+                "rintangan": 15,
+                "musik": 0,
+                "laporan": 10,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Siti",
+            "nilai": {
+                "desain": 20,
+                "point": 15,
+                "nyawa": 10,
+                "rintangan": 15,
+                "musik": 10,
+                "laporan": 10,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Imam",
+            "nilai": {
+                "desain": 15,
+                "point": 10,
+                "nyawa": 10,
+                "rintangan": 15,
+                "musik": 10,
+                "laporan": 8,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Mail",
+            "nilai": {
+                "desain": 14,
+                "point": 12,
+                "nyawa": 10,
+                "rintangan": 11,
+                "musik": 0,
+                "laporan": 5,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Indra",
+            "nilai": {
+                "desain": 12,
+                "point": 15,
+                "nyawa": 10,
+                "rintangan": 7,
+                "musik": 10,
+                "laporan": 8,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Wahyu",
+            "nilai": {
+                "desain": 17,
+                "point": 10,
+                "nyawa": 10,
+                "rintangan": 13,
+                "musik": 10,
+                "laporan": 9,
+                "os": 20
+            }
+        },
+        {
+            "nama": "Rifa",
+            "nilai": {
+                "desain": 11,
+                "point": 10,
+                "nyawa": 10,
+                "rintangan": 11,
+                "musik": 0,
+                "laporan": 4,
+                "os": 20
+            }
+        }
+    ]
